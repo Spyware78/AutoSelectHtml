@@ -1,2 +1,3 @@
 # AutoSelectHtml
-Script for HTML automatic search selection
+Script for HTML automatic search selection.
+Melhore você.
